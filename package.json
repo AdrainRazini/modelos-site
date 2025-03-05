@@ -1,7 +1,7 @@
 {
-  "name": "modelo-site",
+  "name": "mod-game",
   "version": "1.0.0",
-  "description": "Projeto simples com servidor Express",
+  "description": "Projeto de Central de Mods para jogos",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
